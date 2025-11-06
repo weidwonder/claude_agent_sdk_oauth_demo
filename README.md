@@ -1,5 +1,11 @@
 # Claude Agent SDK CLI Chat Demo
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
+[![Python Version](https://img.shields.io/badge/python-%3E%3D3.8-blue)](https://www.python.org/)
+[![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-v0.1.30-purple)](https://docs.claude.com/en/api/agent-sdk/overview)
+[![Anthropic](https://img.shields.io/badge/Powered%20by-Anthropic-orange)](https://www.anthropic.com/)
+
 [中文文档](README_zh.md)
 
 A simple command-line chat demo using **Claude Agent SDK** with **OAuth Token** authentication, available in both **TypeScript** and **Python** versions.

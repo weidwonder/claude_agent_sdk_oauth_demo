@@ -1,5 +1,11 @@
 # Claude Agent SDK 命令行对话 Demo
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
+[![Python Version](https://img.shields.io/badge/python-%3E%3D3.8-blue)](https://www.python.org/)
+[![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-v0.1.30-purple)](https://docs.claude.com/en/api/agent-sdk/overview)
+[![Anthropic](https://img.shields.io/badge/Powered%20by-Anthropic-orange)](https://www.anthropic.com/)
+
 [English Documentation](README.md)
 
 ## 💎 用你的 Claude Pro/Max 订阅额度来调用 SDK 和 API！
